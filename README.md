@@ -1,4 +1,4 @@
-**[Bose landing page](https://mxmuk.github.io/layout_miami/)**
+**Bose landing page** [demo](https://mxmuk.github.io/layout_miami/)
 
 Technologies used: CSS, HTML, BEM, Sass, JS 
 
