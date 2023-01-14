@@ -1,13 +1,26 @@
-# Miami landing page
+** [Bose landing page](https://mxmuk.github.io/layout_miami/)
 
-In this task, you will learn how to implement a landing page. To do that:
+Technologies used: CSS, HTML, BEM, Sass, JS 
 
-- choose a landing page design from the list below;
-  - [BOSE landing](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
-  - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-  - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-- watch the lesson videos and implement your page blocks similarly to the videos;
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- when you finish the first block of your page deploy it and create a Pull Request with a [DEMO LINK](https://<your_account>.github.io/layout_miami/) 
-- after each next block do the same (add, commit and push the changes, and deploy the updated demo;
-- check yourself using the [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md) when finished;
+Description: landing page of company that predominantly sells audio equipment
+
+## Available Scripts
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:9000](http://localhost:9000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
